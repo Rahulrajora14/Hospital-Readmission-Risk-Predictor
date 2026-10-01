@@ -1,0 +1,4 @@
+visit_bucket,patients,encounters
+1 visit,54745,54745
+2-3 visits,13762,30852
+4+ visits,3011,16169

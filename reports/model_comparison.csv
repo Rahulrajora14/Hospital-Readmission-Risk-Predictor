@@ -1,0 +1,4 @@
+model,val_pr_auc,test_roc_auc,test_pr_auc,test_recall,test_precision,test_f1,test_top10_lift,test_threshold
+Logistic Regression,0.1523,0.6374,0.1553,0.404,0.1549,0.2239,2.08,0.1105
+Random Forest,0.1595,0.6466,0.166,0.3128,0.1867,0.2338,2.38,0.1309
+XGBoost,0.1657,0.6457,0.1643,0.3499,0.1814,0.239,2.22,0.1264

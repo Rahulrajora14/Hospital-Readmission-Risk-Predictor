@@ -1,0 +1,301 @@
+age_years,time_in_hospital,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,number_diagnoses,total_prior_visits,num_meds_changed,num_meds_active,gender,admission_type,discharge_group,admission_source_group,medical_specialty,diag_1_group,diag_2_group,diag_3_group,max_glu_serum,A1Cresult,insulin,metformin,change,diabetesMed,readmitted_30d
+15,1,47,1,6,0,0,0,2,0,0,1,Female,Emergency,Home,Emergency room,Other,Diabetes,Other,Missing,Not measured,>7,Steady,No,No,Yes,0
+75,2,1,2,12,1,0,0,6,1,0,1,Female,Unknown,Home with health service,Referral,Missing,Neoplasms,Neoplasms,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+65,3,37,0,10,0,0,0,9,0,0,0,Male,Emergency,Home,Emergency room,InternalMedicine,Circulatory,Circulatory,Diabetes,Not measured,Not measured,No,No,No,No,0
+65,3,68,2,9,0,0,0,3,0,0,0,Female,Unknown,Home,Emergency room,Missing,Digestive,Circulatory,Diabetes,Not measured,Not measured,No,No,No,No,0
+85,2,21,0,13,0,0,0,8,0,0,2,Female,Urgent,Home with health service,Referral,InternalMedicine,Injury,Other,Diabetes,Not measured,Not measured,No,Steady,Yes,Yes,0
+65,10,35,5,19,0,0,0,9,0,0,1,Female,Elective,Home,Transfer,Missing,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+65,3,44,1,8,0,0,0,9,0,0,2,Female,Emergency,Home,Emergency room,Family/GeneralPractice,Other,Other,Other,Not measured,Not measured,No,No,Yes,Yes,0
+65,3,37,0,15,0,0,0,6,0,0,1,Male,Emergency,Home,Emergency room,InternalMedicine,Respiratory,Other,Other,Not measured,Not measured,Steady,No,No,Yes,0
+75,2,1,0,6,0,0,0,9,0,0,1,Female,Elective,Home,Referral,Missing,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+75,4,45,1,24,0,0,0,4,0,0,1,Male,Unknown,Home,Other,Orthopedics-Reconstructive,Musculoskeletal,Musculoskeletal,Diabetes,Not measured,Not measured,No,No,No,Yes,0
+15,1,11,0,4,0,0,0,2,0,1,1,Male,Emergency,Home,Emergency room,Missing,Diabetes,Other,Missing,Not measured,Not measured,Down,No,Yes,Yes,0
+85,12,89,1,30,0,2,0,9,2,2,3,Male,Urgent,Transferred to facility,Emergency room,Emergency/Trauma,Diabetes,Respiratory,Other,Not measured,>8,Down,Steady,Yes,Yes,0
+75,9,80,1,23,0,0,0,9,0,1,1,Male,Emergency,Transferred to facility,Emergency room,Emergency/Trauma,Circulatory,Respiratory,Respiratory,Not measured,Not measured,Up,No,Yes,Yes,0
+35,1,1,1,19,0,1,1,5,2,0,2,Female,Elective,Home,Referral,Missing,Injury,Circulatory,Diabetes,Not measured,Not measured,No,No,Yes,Yes,0
+45,1,55,0,10,0,0,0,2,0,0,1,Male,Emergency,Home,Emergency room,InternalMedicine,Diabetes,Respiratory,Missing,Not measured,Not measured,Steady,No,No,Yes,1
+65,1,59,5,25,0,0,0,8,0,1,2,Male,Emergency,Transferred to facility,Emergency room,Emergency/Trauma,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Down,No,Yes,Yes,0
+65,4,41,1,20,0,0,0,8,0,1,1,Male,Elective,Home,Referral,Missing,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Down,No,Yes,Yes,0
+55,5,42,0,6,0,0,0,8,0,0,1,Male,Urgent,Home,Referral,Other,Other,Other,Diabetes,Not measured,>8,Steady,No,No,Yes,0
+85,2,15,0,15,1,0,0,9,1,0,0,Female,Urgent,Home,Other,Family/GeneralPractice,Other,Respiratory,Circulatory,Norm,Not measured,No,No,No,No,0
+75,2,1,0,10,0,0,0,9,0,0,1,Female,Elective,Home,Referral,Other,Other,Other,Diabetes,Not measured,Not measured,No,No,No,Yes,0
+75,4,9,1,15,0,0,0,9,0,0,0,Female,Emergency,Home with health service,Referral,Missing,Other,Other,Other,Not measured,Not measured,No,No,No,No,0
+55,7,46,3,21,0,0,0,8,0,0,0,Male,Unknown,Home with health service,Other,Missing,Diabetes,Musculoskeletal,Musculoskeletal,Not measured,Not measured,No,No,No,No,0
+75,6,77,6,22,0,0,0,9,0,0,0,Male,Emergency,Home,Emergency room,Cardiology,Circulatory,Respiratory,Circulatory,Not measured,Not measured,No,No,No,No,0
+75,6,40,1,7,0,0,1,9,1,1,1,Female,Emergency,Home with health service,Emergency room,Missing,Digestive,Digestive,Other,Not measured,Not measured,Up,No,Yes,Yes,0
+75,2,30,1,18,0,0,0,9,0,0,0,Male,Emergency,Home,Emergency room,Missing,Circulatory,Diabetes,Injury,Not measured,Not measured,No,No,No,No,0
+35,3,67,0,10,0,0,0,5,0,1,1,Female,Emergency,Home,Emergency room,Missing,Diabetes,Other,Other,Not measured,Not measured,Up,No,Yes,Yes,0
+85,9,72,3,29,0,0,0,9,0,0,0,Female,Emergency,Transferred to facility,Emergency room,Missing,Genitourinary,Circulatory,Other,Not measured,Not measured,No,No,No,No,0
+55,2,21,6,10,0,0,0,9,0,0,0,Male,Emergency,Home,Emergency room,Missing,Circulatory,Circulatory,Diabetes,Not measured,Not measured,No,No,No,No,0
+75,6,41,1,34,0,0,0,9,0,0,2,Female,Elective,Home with health service,Referral,Cardiology,Neoplasms,Circulatory,Respiratory,Not measured,Not measured,Steady,No,Yes,Yes,0
+55,11,41,1,28,0,0,0,9,0,0,1,Male,Urgent,Home,Referral,Other,Other,Other,Injury,Not measured,Not measured,Steady,No,No,Yes,0
+65,8,39,3,21,0,0,0,9,0,0,1,Male,Elective,Home,Referral,Missing,Circulatory,Circulatory,Circulatory,Not measured,Norm,No,No,No,Yes,0
+45,3,52,4,31,0,0,0,9,0,1,2,Female,Emergency,Home,Emergency room,Missing,Circulatory,Other,Respiratory,Not measured,>7,Down,No,Yes,Yes,0
+55,9,55,0,8,0,0,0,5,0,0,1,Male,Urgent,Home,Transfer,Other,Circulatory,Other,Diabetes,Not measured,Not measured,Steady,No,No,Yes,0
+55,5,37,5,8,0,0,0,4,0,0,1,Male,Urgent,Home,Referral,Surgery-General,Circulatory,Diabetes,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+65,4,51,0,11,0,0,0,7,0,1,1,Female,Elective,Home,Referral,Missing,Musculoskeletal,Diabetes,Other,Not measured,Not measured,Up,No,Yes,Yes,0
+65,3,2,2,4,0,0,0,6,0,0,2,Male,Emergency,Home,Emergency room,Missing,Digestive,Circulatory,Other,Not measured,Not measured,Steady,No,Yes,Yes,0
+55,2,59,0,16,0,1,0,6,1,0,1,Male,Emergency,Home,Emergency room,Missing,Circulatory,Other,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+85,2,51,0,8,2,0,0,9,2,0,3,Male,Emergency,Home,Emergency room,Missing,Other,Circulatory,Circulatory,Not measured,Not measured,Steady,No,Yes,Yes,0
+85,9,49,2,11,0,0,1,9,1,0,1,Male,Emergency,Home,Emergency room,InternalMedicine,Digestive,Other,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+85,10,25,0,30,0,1,0,9,1,1,2,Male,Unknown,Home with health service,Other,Missing,Respiratory,Respiratory,Respiratory,>300,Not measured,Up,No,Yes,Yes,0
+85,2,30,0,10,0,0,0,9,0,0,0,Female,Emergency,Home with health service,Emergency room,Missing,Respiratory,Respiratory,Circulatory,Not measured,Not measured,No,No,No,No,0
+85,8,47,2,12,0,0,0,5,0,0,1,Female,Emergency,Home,Emergency room,InternalMedicine,Respiratory,Neoplasms,Diabetes,Not measured,Not measured,No,No,No,Yes,0
+75,1,42,0,9,0,0,0,7,0,0,1,Female,Urgent,Home,Referral,InternalMedicine,Respiratory,Other,Circulatory,Not measured,Not measured,No,Steady,No,Yes,0
+65,3,49,1,17,0,0,1,9,1,0,1,Male,Elective,Home,Referral,Cardiology,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+65,3,60,0,7,0,0,0,6,0,0,0,Female,Emergency,Home with health service,Emergency room,Other,Other,Other,Musculoskeletal,Not measured,Not measured,No,No,No,No,0
+75,6,61,6,16,0,0,0,9,0,0,3,Female,Elective,Home,Referral,Cardiology,Respiratory,Respiratory,Musculoskeletal,Not measured,>7,Steady,Steady,Yes,Yes,0
+85,5,38,1,10,0,0,0,5,0,0,2,Female,Urgent,Transferred to facility,Emergency room,Emergency/Trauma,Circulatory,Other,Diabetes,Not measured,Not measured,No,No,Yes,Yes,0
+75,3,32,1,17,0,0,0,9,0,0,0,Female,Elective,Other,Referral,Orthopedics,Musculoskeletal,Other,Diabetes,Not measured,Not measured,No,No,No,No,0
+75,3,38,0,8,0,0,0,6,0,1,1,Male,Urgent,Home,Referral,InternalMedicine,Other,Diabetes,Circulatory,Not measured,Not measured,Up,No,Yes,Yes,0
+65,7,42,1,28,0,0,0,8,0,0,1,Male,Emergency,Transferred to facility,Emergency room,Orthopedics-Reconstructive,Injury,Circulatory,Respiratory,Not measured,Not measured,Steady,No,No,Yes,0
+85,13,54,6,49,0,0,0,6,0,1,2,Male,Elective,Other,Referral,Missing,Circulatory,Respiratory,Circulatory,Not measured,Not measured,No,No,Yes,Yes,0
+75,2,57,2,18,0,0,0,5,0,1,1,Male,Emergency,Home,Emergency room,Missing,Digestive,Genitourinary,Other,Not measured,Not measured,Up,No,Yes,Yes,0
+45,2,29,5,15,0,0,0,7,0,0,3,Male,Emergency,Home with health service,Emergency room,Missing,Other,Other,Other,Not measured,Not measured,No,Steady,Yes,Yes,0
+65,8,19,0,28,4,0,0,8,4,1,1,Female,Unknown,Transferred to facility,Other,Nephrology,Respiratory,Other,Other,>300,Not measured,Up,No,Yes,Yes,0
+65,1,46,5,9,0,0,0,4,0,0,2,Male,Urgent,Home,Referral,Cardiology,Circulatory,Circulatory,Other,Not measured,Not measured,Steady,No,Yes,Yes,0
+55,5,37,2,39,0,0,0,9,0,0,2,Male,Elective,Home with health service,Referral,Missing,Neoplasms,Injury,Other,Not measured,Not measured,No,Steady,Yes,Yes,0
+75,4,59,1,25,0,0,1,9,1,0,2,Female,Emergency,Home with health service,Emergency room,Missing,Other,Genitourinary,Other,Not measured,Norm,Steady,No,Yes,Yes,1
+85,3,56,0,11,0,0,0,9,0,1,1,Female,Emergency,Transferred to facility,Emergency room,Missing,Other,Other,Circulatory,Not measured,Norm,Up,No,Yes,Yes,0
+65,6,22,0,19,1,0,0,7,1,0,1,Female,Emergency,Home,Emergency room,Family/GeneralPractice,Other,Other,Other,Not measured,Not measured,No,No,No,Yes,0
+75,4,50,0,12,0,0,0,9,0,1,2,Female,Urgent,Home,Referral,Missing,Other,Diabetes,Injury,Not measured,>8,Down,No,Yes,Yes,0
+35,2,22,1,6,0,0,0,4,0,0,0,Female,Urgent,Home,Referral,Other,Other,Other,Diabetes,Not measured,Not measured,No,No,No,No,0
+75,7,52,6,40,0,0,0,9,0,1,2,Male,Elective,Transferred to facility,Referral,Missing,Circulatory,Circulatory,Other,Not measured,Norm,Up,No,Yes,Yes,0
+75,12,62,0,20,0,0,0,8,0,0,1,Female,Emergency,Home,Emergency room,Missing,Digestive,Genitourinary,Other,Not measured,Not measured,Steady,No,No,Yes,0
+75,6,46,0,23,0,0,0,9,0,0,1,Male,Emergency,Transferred to facility,Emergency room,InternalMedicine,Circulatory,Genitourinary,Digestive,Not measured,Not measured,Steady,No,No,Yes,0
+55,11,93,0,20,0,0,0,9,0,0,0,Female,Emergency,Transferred to facility,Emergency room,Missing,Circulatory,Respiratory,Genitourinary,Not measured,Not measured,No,No,No,No,0
+65,9,54,6,26,1,0,0,9,1,0,0,Male,Elective,Home with health service,Referral,Missing,Musculoskeletal,Other,Circulatory,Not measured,Norm,No,No,No,No,0
+45,2,57,0,23,0,0,1,9,1,1,1,Female,Emergency,Home,Referral,Family/GeneralPractice,Respiratory,Other,Other,Not measured,Norm,Down,No,Yes,Yes,0
+15,4,62,0,8,0,0,0,6,0,1,1,Female,Urgent,Home,Referral,Other,Other,Other,Other,Not measured,>8,No,Up,Yes,Yes,0
+45,9,51,4,17,0,0,1,9,1,0,0,Female,Emergency,Transferred to facility,Emergency room,InternalMedicine,Genitourinary,Genitourinary,Other,Not measured,Not measured,No,No,No,No,0
+55,2,42,0,12,0,0,0,9,0,0,1,Male,Urgent,Home,Referral,Missing,Diabetes,Musculoskeletal,Other,Not measured,Not measured,No,No,No,Yes,0
+55,2,56,0,17,0,0,0,8,0,0,0,Male,Elective,Home,Referral,Missing,Respiratory,Circulatory,Missing,Not measured,Not measured,No,No,No,No,0
+65,1,62,0,19,0,1,4,9,5,0,1,Female,Emergency,Home,Emergency room,InternalMedicine,Other,Other,Respiratory,Not measured,Not measured,No,No,No,Yes,0
+55,4,57,0,20,0,0,0,9,0,1,1,Female,Emergency,Home,Referral,Missing,Circulatory,Respiratory,Respiratory,Not measured,Not measured,Down,No,Yes,Yes,1
+65,6,54,1,16,0,0,0,5,0,0,0,Female,Emergency,Transferred to facility,Transfer,Family/GeneralPractice,Diabetes,Genitourinary,Other,Not measured,Not measured,No,No,No,No,0
+85,12,73,5,31,4,0,0,7,4,0,1,Female,Unknown,Home,Other,InternalMedicine,Circulatory,Circulatory,Circulatory,Not measured,>8,No,No,No,Yes,0
+75,9,42,4,26,0,0,0,9,0,1,2,Male,Unknown,Home,Other,Missing,Other,Circulatory,Circulatory,Not measured,>8,No,Steady,Yes,Yes,0
+65,8,46,3,22,0,0,0,6,0,0,0,Male,Emergency,Home,Emergency room,Missing,Circulatory,Other,Other,Not measured,Not measured,No,No,No,No,0
+85,6,41,3,33,0,0,0,9,0,0,0,Female,Emergency,Transferred to facility,Referral,InternalMedicine,Other,Digestive,Other,Not measured,Norm,No,No,No,No,0
+25,1,35,1,20,0,0,0,2,0,0,0,Female,Elective,Home,Referral,Other,Respiratory,Diabetes,Missing,Not measured,Not measured,No,No,No,No,0
+75,3,56,0,16,0,0,0,5,0,0,0,Female,Emergency,Home,Emergency room,Missing,Circulatory,Diabetes,Digestive,Not measured,>7,No,No,No,No,0
+55,3,54,0,9,0,0,0,8,0,0,1,Male,Emergency,Transferred to facility,Emergency room,Cardiology,Circulatory,Respiratory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+85,2,46,0,11,0,0,1,6,1,0,1,Male,Urgent,Home,Other,Missing,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+75,2,1,0,12,0,0,0,9,0,0,1,Female,Elective,Home,Emergency room,Emergency/Trauma,Respiratory,Respiratory,Other,Not measured,Not measured,No,Steady,No,Yes,0
+35,3,8,5,12,0,0,0,5,0,0,0,Male,Unknown,Home,Referral,Missing,Other,Diabetes,Other,Not measured,Not measured,No,No,No,No,0
+55,6,34,6,18,0,0,0,9,0,1,1,Male,Elective,Transferred to facility,Referral,Other,Musculoskeletal,Respiratory,Circulatory,Not measured,Not measured,Up,No,Yes,Yes,0
+75,2,11,0,13,0,0,0,5,0,1,1,Female,Emergency,Home,Emergency room,Missing,Circulatory,Circulatory,Diabetes,Not measured,Not measured,Up,No,Yes,Yes,0
+15,2,44,0,10,0,0,0,3,0,1,1,Male,Emergency,Home,Emergency room,Emergency/Trauma,Diabetes,Circulatory,Other,Not measured,Not measured,Up,No,Yes,Yes,0
+75,9,46,0,17,0,0,0,8,0,2,2,Male,Emergency,Transferred to facility,Emergency room,Missing,Circulatory,Other,Other,Not measured,>8,Down,No,Yes,Yes,1
+35,1,22,3,8,0,0,0,4,0,0,0,Female,Elective,Home,Referral,Other,Other,Diabetes,Other,Not measured,Not measured,No,No,No,No,0
+75,6,48,1,22,0,1,2,8,3,0,0,Female,Emergency,Home,Emergency room,Missing,Respiratory,Diabetes,Circulatory,Not measured,Not measured,No,No,No,No,0
+75,2,47,0,11,0,0,0,9,0,0,1,Male,Unknown,Home,Other,InternalMedicine,Respiratory,Circulatory,Respiratory,Not measured,>8,Steady,No,No,Yes,0
+85,2,40,1,18,0,0,1,9,1,0,2,Male,Elective,Home,Referral,InternalMedicine,Other,Other,Diabetes,Not measured,Not measured,No,No,Yes,Yes,0
+55,12,73,6,46,0,0,0,9,0,1,2,Female,Emergency,Home,Emergency room,InternalMedicine,Circulatory,Injury,Other,Not measured,Norm,Up,Steady,Yes,Yes,0
+85,3,26,0,12,0,0,0,9,0,0,1,Female,Urgent,Home with health service,Emergency room,Emergency/Trauma,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+65,2,9,0,2,0,0,0,9,0,0,1,Male,Urgent,Home,Emergency room,Emergency/Trauma,Genitourinary,Other,Genitourinary,Not measured,Not measured,Steady,No,No,Yes,1
+75,2,35,1,9,0,0,0,4,0,0,0,Female,Emergency,Home,Emergency room,Missing,Respiratory,Diabetes,Other,Not measured,Not measured,No,No,No,No,0
+85,3,27,0,9,0,0,0,9,0,0,1,Male,Elective,Transferred to facility,Referral,Missing,Injury,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+55,4,7,2,36,1,2,0,9,3,0,1,Female,Elective,Home with health service,Referral,Radiologist,Musculoskeletal,Other,Respiratory,Not measured,Not measured,No,Steady,No,Yes,0
+75,6,49,0,15,0,0,0,9,0,0,1,Female,Emergency,Transferred to facility,Emergency room,Missing,Respiratory,Respiratory,Diabetes,Not measured,Not measured,No,Steady,No,Yes,0
+75,6,1,4,13,0,0,1,9,1,0,1,Female,Elective,Home,Referral,Nephrology,Injury,Other,Injury,Not measured,Not measured,Steady,No,No,Yes,0
+75,5,1,2,15,0,0,0,5,0,0,2,Female,Urgent,Home,Referral,Other,Musculoskeletal,Respiratory,Musculoskeletal,Not measured,Not measured,Steady,No,Yes,Yes,0
+85,4,62,1,13,0,0,0,9,0,0,1,Male,Unknown,Transferred to facility,Other,Missing,Respiratory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+65,1,46,4,11,0,0,0,4,0,0,1,Male,Elective,Home,Referral,Other,Neoplasms,Genitourinary,Diabetes,Not measured,Not measured,No,No,No,Yes,0
+65,5,44,0,16,0,0,0,5,0,1,2,Female,Emergency,Transferred to facility,Transfer,InternalMedicine,Respiratory,Diabetes,Circulatory,Not measured,Not measured,Down,No,Yes,Yes,0
+65,1,18,1,26,0,0,0,7,0,0,2,Female,Elective,Home,Referral,Missing,Musculoskeletal,Circulatory,Digestive,Not measured,Not measured,Steady,Steady,Yes,Yes,0
+55,3,58,6,16,0,0,0,7,0,1,1,Male,Emergency,Home,Emergency room,Missing,Circulatory,Circulatory,Diabetes,Not measured,Not measured,Down,No,Yes,Yes,0
+75,5,58,0,24,2,0,0,7,2,1,1,Female,Unknown,Transferred to facility,Other,Missing,Other,Respiratory,Circulatory,Not measured,Not measured,Up,No,Yes,Yes,1
+75,5,21,2,13,0,0,0,5,0,0,1,Male,Urgent,Other,Referral,Orthopedics,Musculoskeletal,Circulatory,Diabetes,Not measured,Not measured,No,Steady,No,Yes,0
+95,1,44,1,13,1,0,0,9,1,0,1,Female,Emergency,Home with health service,Emergency room,Missing,Injury,Circulatory,Other,Not measured,Not measured,Steady,No,No,Yes,0
+55,4,64,0,13,0,0,0,7,0,0,1,Male,Emergency,Home with health service,Emergency room,Missing,Genitourinary,Circulatory,Other,Not measured,>7,Steady,No,No,Yes,0
+65,5,53,1,29,2,2,0,9,4,0,2,Female,Urgent,Home with health service,Referral,Missing,Digestive,Other,Other,Not measured,Not measured,Steady,Steady,Yes,Yes,0
+55,3,37,3,14,0,0,0,8,0,0,1,Male,Urgent,Home,Transfer,Missing,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+55,1,39,5,11,0,0,0,5,0,0,0,Male,Elective,Home,Referral,Cardiology,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,No,0
+75,2,34,0,17,0,0,0,9,0,0,1,Female,Emergency,Home,Referral,Missing,Other,Circulatory,Respiratory,Not measured,Not measured,Steady,No,No,Yes,0
+65,7,54,1,11,0,0,0,5,0,1,1,Male,Elective,Home,Referral,Surgery-General,Digestive,Other,Diabetes,Not measured,Not measured,Down,No,Yes,Yes,0
+65,5,54,0,6,0,0,0,2,0,0,1,Male,Emergency,Other,Emergency room,Missing,Diabetes,Other,Missing,Not measured,Not measured,No,No,No,Yes,0
+85,9,74,0,20,1,0,1,9,2,0,0,Female,Emergency,Transferred to facility,Transfer,Cardiology,Circulatory,Circulatory,Circulatory,Not measured,Norm,No,No,No,No,0
+85,7,65,5,45,0,0,0,9,0,1,1,Male,Emergency,Home with health service,Emergency room,Missing,Circulatory,Respiratory,Other,Not measured,Not measured,Up,No,Yes,Yes,0
+95,1,4,0,12,0,0,0,8,0,0,2,Female,Emergency,Home,Emergency room,Missing,Respiratory,Circulatory,Other,Not measured,Not measured,Steady,No,Yes,Yes,0
+75,6,47,1,15,1,0,0,9,1,0,0,Female,Elective,Home with health service,Referral,Missing,Musculoskeletal,Genitourinary,Circulatory,Not measured,Not measured,No,No,No,No,0
+45,1,6,0,5,0,0,0,5,0,0,1,Male,Urgent,Left against medical advice,Referral,Cardiology,Respiratory,Diabetes,Other,Not measured,Not measured,Steady,No,No,Yes,0
+35,3,14,0,13,0,1,2,9,3,1,1,Female,Elective,Home,Referral,Cardiology,Circulatory,Circulatory,Diabetes,Not measured,>8,Down,No,Yes,Yes,0
+65,8,25,2,37,0,0,0,8,0,0,1,Female,Unknown,Other,Other,Orthopedics-Reconstructive,Musculoskeletal,Injury,Digestive,Norm,Not measured,No,No,No,Yes,0
+45,4,45,2,18,0,0,0,6,0,0,1,Male,Urgent,Home,Transfer,InternalMedicine,Circulatory,Circulatory,Circulatory,Not measured,>8,No,Steady,No,Yes,0
+55,6,68,5,32,0,0,0,6,0,1,1,Female,Unknown,Other,Referral,Cardiology,Circulatory,Circulatory,Diabetes,Not measured,>8,Down,No,Yes,Yes,0
+75,2,37,1,9,0,0,0,5,0,0,1,Female,Urgent,Home,Referral,Other,Digestive,Circulatory,Other,Not measured,Not measured,Steady,No,No,Yes,0
+85,5,45,0,4,0,0,0,6,0,0,0,Female,Emergency,Transferred to facility,Emergency room,Missing,Other,Other,Other,Not measured,Not measured,No,No,No,No,0
+55,8,64,0,9,0,0,1,8,1,0,0,Female,Emergency,Transferred to facility,Emergency room,Pulmonology,Other,Circulatory,Neoplasms,Not measured,Not measured,No,No,No,No,0
+35,3,57,3,22,0,0,0,9,0,1,1,Female,Urgent,Home,Transfer,Missing,Injury,Other,Circulatory,Not measured,Not measured,No,Up,Yes,Yes,0
+85,5,33,0,14,2,2,0,9,4,0,1,Female,Urgent,Home with health service,Referral,Missing,Circulatory,Genitourinary,Genitourinary,Not measured,Not measured,No,No,No,Yes,0
+55,2,42,6,21,3,0,0,7,3,1,1,Male,Emergency,Home,Emergency room,Missing,Circulatory,Diabetes,Circulatory,Not measured,Norm,Down,No,Yes,Yes,0
+75,7,41,6,45,0,0,0,7,0,0,1,Male,Urgent,Home,Referral,Missing,Circulatory,Other,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+65,4,52,0,16,0,1,4,9,5,1,1,Male,Emergency,Home,Emergency room,Missing,Circulatory,Circulatory,Circulatory,Not measured,>8,Up,No,Yes,Yes,1
+85,1,46,0,12,0,0,0,8,0,0,0,Male,Emergency,Home,Emergency room,Missing,Respiratory,Circulatory,Respiratory,Not measured,Not measured,No,No,No,No,0
+65,3,57,1,17,3,0,1,9,4,1,1,Female,Urgent,Home with health service,Emergency room,Emergency/Trauma,Other,Genitourinary,Genitourinary,Not measured,Not measured,Down,No,Yes,Yes,0
+55,9,60,3,27,0,0,0,9,0,1,1,Female,Emergency,Transferred to facility,Emergency room,Missing,Circulatory,Respiratory,Circulatory,Not measured,Not measured,No,Up,Yes,Yes,0
+85,2,56,1,15,0,0,0,9,0,0,1,Female,Emergency,Home,Emergency room,Missing,Digestive,Genitourinary,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+5,4,52,0,5,0,0,0,3,0,0,1,Female,Emergency,Home,Emergency room,Other,Diabetes,Other,Other,Not measured,>8,Steady,No,No,Yes,0
+65,3,68,0,21,0,0,0,9,0,0,0,Male,Emergency,Transferred to facility,Emergency room,Missing,Circulatory,Respiratory,Circulatory,Not measured,Not measured,No,No,No,No,0
+65,1,7,1,21,0,0,0,7,0,0,0,Male,Elective,Home,Referral,Other,Musculoskeletal,Respiratory,Musculoskeletal,Not measured,Not measured,No,No,No,No,0
+55,4,64,3,26,0,0,0,9,0,1,3,Male,Unknown,Home,Other,Cardiology,Circulatory,Circulatory,Circulatory,Not measured,>8,Down,No,Yes,Yes,0
+85,1,35,0,5,0,0,0,9,0,0,1,Female,Emergency,Home,Emergency room,InternalMedicine,Other,Circulatory,Neoplasms,Not measured,Not measured,No,Steady,No,Yes,0
+45,5,30,0,21,0,0,0,6,0,0,0,Male,Emergency,Home,Emergency room,Missing,Respiratory,Respiratory,Other,Not measured,Not measured,No,No,No,No,0
+65,2,1,4,18,0,0,0,9,0,1,2,Male,Urgent,Home,Transfer,Missing,Circulatory,Diabetes,Circulatory,Not measured,Not measured,Down,Steady,Yes,Yes,1
+55,11,63,5,44,0,0,0,9,0,0,1,Male,Urgent,Home,Transfer,Radiologist,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+65,1,64,0,11,0,0,0,8,0,0,1,Female,Emergency,Home,Emergency room,Missing,Respiratory,Digestive,Diabetes,Not measured,Not measured,No,Steady,No,Yes,0
+75,7,69,1,23,0,0,0,9,0,0,2,Female,Unknown,Other,Emergency room,Cardiology,Circulatory,Circulatory,Other,Not measured,Not measured,Steady,No,Yes,Yes,0
+85,4,37,1,11,0,0,0,9,0,1,1,Male,Emergency,Transferred to facility,Emergency room,Missing,Respiratory,Circulatory,Circulatory,Not measured,Not measured,Up,No,Yes,Yes,0
+45,9,37,0,18,0,0,1,9,1,0,2,Female,Urgent,Home,Emergency room,Missing,Other,Diabetes,Other,Not measured,Not measured,Steady,No,Yes,Yes,0
+85,1,55,0,13,0,0,0,5,0,0,0,Male,Elective,Transferred to facility,Referral,Missing,Other,Other,Circulatory,Not measured,Not measured,No,No,No,No,1
+35,5,47,1,14,0,0,0,9,0,0,0,Female,Emergency,Home,Emergency room,Missing,Digestive,Circulatory,Genitourinary,Not measured,Not measured,No,No,No,No,0
+65,3,49,1,22,2,0,0,6,2,0,0,Male,Unknown,Transferred to facility,Referral,Missing,Musculoskeletal,Other,Other,Not measured,Not measured,No,No,No,No,0
+95,2,57,0,16,0,0,0,9,0,0,0,Female,Emergency,Transferred to facility,Emergency room,Missing,Respiratory,Respiratory,Circulatory,Not measured,Not measured,No,No,No,No,0
+85,7,45,2,23,0,0,0,9,0,1,2,Female,Emergency,Home with health service,Emergency room,Cardiology,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Down,No,Yes,Yes,0
+75,6,54,3,23,2,0,0,8,2,0,0,Male,Elective,Home,Referral,Other,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,No,0
+85,6,39,1,17,1,0,2,9,3,1,1,Male,Elective,Home with health service,Emergency room,InternalMedicine,Other,Circulatory,Respiratory,Not measured,Not measured,Up,No,Yes,Yes,0
+45,3,38,1,5,0,0,0,7,0,1,1,Male,Emergency,Other,Emergency room,InternalMedicine,Injury,Diabetes,Other,Not measured,Not measured,Up,No,Yes,Yes,0
+55,2,15,0,7,0,0,0,2,0,0,2,Female,Urgent,Home,Referral,Family/GeneralPractice,Diabetes,Other,Missing,Not measured,Not measured,Steady,Steady,Yes,Yes,0
+45,2,33,1,15,0,0,0,8,0,1,3,Female,Urgent,Home,Referral,InternalMedicine,Other,Diabetes,Circulatory,Not measured,>8,Down,Steady,Yes,Yes,1
+75,12,66,1,13,0,0,0,9,0,0,0,Female,Urgent,Transferred to facility,Emergency room,Emergency/Trauma,Other,Other,Other,Not measured,Not measured,No,No,No,No,0
+65,6,41,0,11,0,0,0,8,0,0,1,Female,Emergency,Home,Emergency room,Other,Other,Respiratory,Other,Not measured,Not measured,No,Steady,No,Yes,0
+85,8,20,4,10,0,0,0,9,0,0,0,Male,Unknown,Home,Other,Missing,Circulatory,Circulatory,Circulatory,Norm,Not measured,No,No,No,No,0
+75,1,14,0,11,0,0,0,9,0,0,1,Female,Elective,Home,Referral,InternalMedicine,Respiratory,Injury,Other,Not measured,>8,No,No,No,Yes,0
+65,2,39,5,20,0,0,0,9,0,0,1,Female,Emergency,Home,Emergency room,Missing,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+75,1,8,0,6,0,0,0,6,0,0,2,Female,Urgent,Home,Emergency room,Emergency/Trauma,Other,Other,Other,Not measured,Not measured,No,Steady,Yes,Yes,0
+45,1,13,0,4,0,0,0,8,0,0,1,Male,Emergency,Other,Emergency room,Missing,Injury,Other,Other,Not measured,Not measured,No,No,No,Yes,0
+65,2,39,1,20,0,0,0,7,0,0,1,Male,Urgent,Home,Referral,Cardiology,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,Steady,No,Yes,0
+75,7,61,1,18,0,0,0,9,0,0,2,Female,Emergency,Home,Referral,Emergency/Trauma,Digestive,Circulatory,Respiratory,Not measured,Not measured,Steady,No,Yes,Yes,0
+55,2,60,2,23,2,0,0,5,2,0,2,Male,Unknown,Home,Other,Surgery-General,Digestive,Diabetes,Circulatory,Not measured,Not measured,No,Steady,Yes,Yes,1
+35,4,31,0,9,0,0,0,4,0,0,1,Female,Unknown,Home,Referral,Missing,Other,Diabetes,Other,Not measured,Not measured,No,Steady,No,Yes,0
+75,3,20,1,27,0,0,0,7,0,0,1,Male,Elective,Other,Referral,Orthopedics,Injury,Musculoskeletal,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+85,5,58,0,3,0,0,0,3,0,1,3,Female,Emergency,Home,Transfer,InternalMedicine,Circulatory,Diabetes,Circulatory,Not measured,>8,Steady,Up,Yes,Yes,0
+15,2,34,0,4,0,0,0,1,0,0,1,Male,Emergency,Home,Emergency room,Other,Diabetes,Missing,Missing,Not measured,>8,Steady,No,No,Yes,0
+95,3,59,0,7,0,0,0,9,0,0,0,Female,Emergency,Home,Emergency room,InternalMedicine,Circulatory,Genitourinary,Circulatory,Not measured,Not measured,No,No,No,No,0
+85,1,36,1,1,1,0,0,3,1,0,0,Male,Elective,Home with health service,Referral,Missing,Digestive,Other,Diabetes,Not measured,Not measured,No,No,No,No,0
+45,5,35,4,23,0,0,0,8,0,1,1,Male,Urgent,Home,Referral,Missing,Digestive,Respiratory,Other,Not measured,Not measured,Up,No,Yes,Yes,0
+75,7,67,2,19,1,0,0,9,1,1,2,Female,Urgent,Home with health service,Emergency room,Missing,Respiratory,Genitourinary,Diabetes,Not measured,Not measured,Steady,No,Yes,Yes,0
+45,9,54,6,26,0,0,0,9,0,1,1,Female,Emergency,Other,Emergency room,Family/GeneralPractice,Circulatory,Diabetes,Other,Not measured,Not measured,No,No,Yes,Yes,1
+75,3,48,0,14,0,0,0,4,0,0,1,Female,Emergency,Other,Emergency room,Missing,Respiratory,Circulatory,Diabetes,Not measured,>8,Steady,No,No,Yes,0
+55,7,72,1,28,0,0,0,9,0,1,3,Male,Emergency,Home,Emergency room,Missing,Respiratory,Other,Other,Not measured,Not measured,No,Steady,Yes,Yes,0
+75,3,84,2,15,0,0,0,9,0,0,1,Male,Emergency,Home,Emergency room,InternalMedicine,Genitourinary,Other,Circulatory,Not measured,>7,Steady,No,No,Yes,0
+85,3,62,0,12,0,0,1,9,1,0,4,Female,Emergency,Transferred to facility,Emergency room,InternalMedicine,Diabetes,Other,Genitourinary,Not measured,Not measured,Steady,Steady,Yes,Yes,0
+65,4,43,0,18,0,0,0,9,0,1,2,Male,Emergency,Home,Referral,Missing,Other,Diabetes,Circulatory,Not measured,Not measured,Up,No,Yes,Yes,1
+55,8,57,1,19,0,0,0,9,0,0,0,Female,Emergency,Home,Emergency room,InternalMedicine,Genitourinary,Digestive,Digestive,Not measured,>8,No,No,No,No,0
+45,12,24,4,23,0,0,0,9,0,0,0,Female,Emergency,Home,Emergency room,Missing,Respiratory,Other,Digestive,Not measured,Not measured,No,No,No,No,0
+75,4,58,0,11,0,0,0,5,0,0,1,Female,Emergency,Transferred to facility,Emergency room,Cardiology,Circulatory,Circulatory,Other,Not measured,>8,Steady,No,No,Yes,0
+75,4,40,1,8,1,0,0,9,1,0,0,Male,Emergency,Home with health service,Emergency room,Missing,Injury,Other,Respiratory,Not measured,Not measured,No,No,No,No,0
+65,3,50,1,27,0,0,0,9,0,0,3,Male,Emergency,Home,Emergency room,InternalMedicine,Respiratory,Circulatory,Respiratory,Not measured,Not measured,Steady,No,Yes,Yes,0
+65,1,18,0,19,2,1,0,8,3,1,2,Female,Unknown,Home,Other,Family/GeneralPractice,Circulatory,Respiratory,Diabetes,>300,Not measured,No,Up,Yes,Yes,0
+75,5,31,1,27,0,0,0,3,0,0,1,Female,Emergency,Other,Emergency room,Orthopedics,Injury,Diabetes,Circulatory,Not measured,Not measured,No,Steady,No,Yes,1
+65,4,41,2,35,0,0,0,5,0,0,2,Male,Elective,Home with health service,Referral,Missing,Musculoskeletal,Circulatory,Diabetes,Not measured,Not measured,Steady,No,Yes,Yes,0
+35,2,58,0,10,0,0,2,9,2,1,1,Female,Emergency,Home,Emergency room,Missing,Respiratory,Diabetes,Digestive,Not measured,Not measured,Down,No,Yes,Yes,0
+75,5,60,0,26,3,0,0,9,3,0,2,Male,Emergency,Home with health service,Emergency room,Missing,Circulatory,Genitourinary,Genitourinary,Not measured,Not measured,No,No,Yes,Yes,0
+65,5,70,0,15,0,1,2,6,3,0,1,Male,Urgent,Transferred to facility,Emergency room,Family/GeneralPractice,Respiratory,Respiratory,Diabetes,Not measured,Not measured,Steady,No,No,Yes,0
+75,10,77,0,11,0,0,0,8,0,0,1,Female,Emergency,Home,Emergency room,InternalMedicine,Digestive,Respiratory,Respiratory,Not measured,>7,Steady,No,No,Yes,0
+45,3,34,4,10,0,0,0,8,0,0,0,Female,Elective,Transferred to facility,Referral,Other,Musculoskeletal,Diabetes,Other,Not measured,Not measured,No,No,No,No,1
+85,9,72,5,17,0,0,0,7,0,0,3,Female,Unknown,Home,Other,Cardiology,Circulatory,Circulatory,Diabetes,Not measured,>8,Steady,No,Yes,Yes,0
+75,2,28,0,15,0,0,0,7,0,0,1,Male,Elective,Transferred to facility,Referral,Missing,Respiratory,Respiratory,Respiratory,Not measured,Not measured,Steady,No,No,Yes,0
+65,4,9,3,30,0,0,0,6,0,1,1,Female,Unknown,Home with health service,Other,Missing,Musculoskeletal,Diabetes,Musculoskeletal,Norm,Not measured,Up,No,Yes,Yes,0
+75,2,46,0,5,0,0,0,9,0,0,0,Male,Emergency,Home,Emergency room,Missing,Circulatory,Neoplasms,Circulatory,Not measured,Not measured,No,No,No,No,0
+45,3,13,0,9,0,0,0,9,0,0,1,Male,Emergency,Home,Emergency room,Missing,Respiratory,Circulatory,Circulatory,Not measured,Norm,Steady,No,No,Yes,0
+65,1,25,0,7,0,0,0,9,0,0,0,Male,Urgent,Home,Referral,Missing,Respiratory,Diabetes,Circulatory,Not measured,Not measured,No,No,No,No,0
+85,1,43,0,10,1,0,0,5,1,0,0,Female,Emergency,Home,Emergency room,InternalMedicine,Circulatory,Circulatory,Circulatory,Not measured,Norm,No,No,No,No,0
+55,3,54,0,16,0,0,0,9,0,1,3,Female,Urgent,Home,Emergency room,Emergency/Trauma,Diabetes,Circulatory,Circulatory,Not measured,>8,Up,Steady,Yes,Yes,1
+75,2,37,0,13,0,0,0,8,0,0,0,Female,Emergency,Home,Emergency room,InternalMedicine,Other,Circulatory,Circulatory,Not measured,Not measured,No,No,No,No,0
+85,5,44,2,15,0,0,0,4,0,0,1,Male,Urgent,Home,Referral,Orthopedics,Musculoskeletal,Neoplasms,Other,Not measured,Not measured,No,No,No,Yes,0
+55,9,81,0,13,0,0,0,9,0,0,3,Female,Emergency,Home,Emergency room,InternalMedicine,Respiratory,Other,Other,Not measured,>8,Steady,Steady,Yes,Yes,0
+75,6,41,0,6,0,0,1,6,1,0,0,Male,Elective,Home,Referral,Surgery-General,Circulatory,Circulatory,Diabetes,Not measured,>7,No,No,No,No,0
+45,1,26,4,16,0,0,0,4,0,1,1,Female,Urgent,Home,Transfer,Cardiology,Circulatory,Circulatory,Diabetes,Not measured,Not measured,Down,No,Yes,Yes,0
+65,10,59,5,56,1,0,0,9,1,0,2,Female,Emergency,Transferred to facility,Emergency room,Missing,Circulatory,Circulatory,Diabetes,Not measured,Not measured,Steady,No,Yes,Yes,0
+75,3,52,0,7,0,0,0,9,0,0,0,Female,Emergency,Other,Emergency room,Family/GeneralPractice,Digestive,Circulatory,Other,Not measured,Not measured,No,No,No,No,0
+75,10,52,2,27,0,0,0,9,0,1,2,Female,Emergency,Transferred to facility,Emergency room,Emergency/Trauma,Respiratory,Respiratory,Respiratory,Not measured,Not measured,Down,No,Yes,Yes,0
+65,1,39,4,18,0,0,0,5,0,0,0,Female,Elective,Home,Referral,InternalMedicine,Circulatory,Diabetes,Circulatory,Not measured,Not measured,No,No,No,No,0
+75,6,68,4,26,6,0,0,9,6,2,3,Female,Emergency,Home with health service,Emergency room,InternalMedicine,Circulatory,Circulatory,Diabetes,Not measured,>8,Down,No,Yes,Yes,1
+65,3,52,5,15,1,0,0,6,1,0,2,Male,Unknown,Home,Other,Family/GeneralPractice,Circulatory,Circulatory,Digestive,Not measured,>7,No,No,Yes,Yes,0
+75,4,1,0,18,0,0,0,9,0,0,0,Male,Urgent,Home,Referral,Missing,Respiratory,Respiratory,Circulatory,Not measured,Not measured,No,No,No,No,1
+75,2,41,0,14,0,0,0,5,0,0,0,Female,Emergency,Home,Emergency room,Missing,Circulatory,Other,Other,Not measured,Not measured,No,No,No,No,1
+35,1,24,1,17,0,0,0,3,0,0,0,Female,Elective,Home,Referral,Other,Genitourinary,Diabetes,Neoplasms,Not measured,Not measured,No,No,No,No,0
+85,3,11,2,15,0,0,0,6,0,0,0,Female,Elective,Home with health service,Referral,Missing,Neoplasms,Neoplasms,Neoplasms,Not measured,Not measured,No,No,No,No,0
+35,1,1,0,13,1,4,0,9,5,0,2,Female,Emergency,Transferred to facility,Emergency room,Missing,Circulatory,Circulatory,Circulatory,Not measured,>8,Steady,Steady,Yes,Yes,0
+75,3,55,0,21,0,0,0,5,0,0,2,Female,Urgent,Home,Emergency room,Emergency/Trauma,Respiratory,Diabetes,Circulatory,Not measured,Not measured,Steady,Steady,Yes,Yes,0
+55,1,64,0,13,0,0,0,8,0,1,2,Male,Emergency,Home,Emergency room,Missing,Respiratory,Respiratory,Circulatory,Not measured,>8,No,No,Yes,Yes,0
+55,4,55,0,18,0,0,0,9,0,0,1,Female,Unknown,Other,Referral,InternalMedicine,Diabetes,Other,Other,Not measured,>8,Steady,No,No,Yes,1
+75,2,58,0,16,0,0,0,9,0,0,0,Female,Unknown,Home with health service,Other,Family/GeneralPractice,Respiratory,Circulatory,Diabetes,Not measured,Not measured,No,No,No,No,0
+75,3,41,1,12,0,0,0,9,0,0,1,Female,Emergency,Home,Emergency room,Missing,Respiratory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+65,2,38,2,13,0,0,0,8,0,0,1,Female,Elective,Home,Referral,Missing,Circulatory,Neoplasms,Diabetes,Not measured,Not measured,Steady,No,No,Yes,0
+65,3,50,0,15,0,0,0,9,0,0,0,Female,Urgent,Transferred to facility,Emergency room,Missing,Other,Genitourinary,Circulatory,Not measured,Not measured,No,No,No,No,0
+95,11,42,1,7,0,0,0,9,0,1,1,Male,Emergency,Other,Emergency room,Family/GeneralPractice,Other,Other,Other,Not measured,Not measured,No,No,Yes,Yes,0
+55,3,75,0,8,0,0,2,6,2,0,2,Male,Unknown,Home,Emergency room,InternalMedicine,Digestive,Digestive,Other,>200,Not measured,Steady,No,Yes,Yes,0
+25,5,43,0,10,0,0,0,7,0,1,1,Male,Emergency,Home,Emergency room,Missing,Injury,Injury,Injury,Not measured,Not measured,Down,No,Yes,Yes,0
+75,6,49,0,17,0,0,1,8,1,0,3,Female,Emergency,Transferred to facility,Emergency room,Cardiology,Circulatory,Diabetes,Circulatory,Not measured,Not measured,Steady,Steady,Yes,Yes,1
+75,2,33,1,15,0,0,2,9,2,0,2,Male,Emergency,Home,Emergency room,Missing,Digestive,Other,Circulatory,Not measured,Not measured,No,No,Yes,Yes,0
+85,8,20,0,24,2,0,0,9,2,0,2,Female,Unknown,Transferred to facility,Other,Missing,Circulatory,Circulatory,Circulatory,>200,Not measured,Steady,No,Yes,Yes,0
+55,1,32,3,16,0,0,0,9,0,0,1,Female,Emergency,Home,Emergency room,Missing,Respiratory,Respiratory,Diabetes,Not measured,Norm,Steady,No,No,Yes,0
+85,3,24,0,5,0,0,0,9,0,0,0,Male,Emergency,Home,Emergency room,Missing,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,No,0
+75,5,32,2,18,0,0,0,9,0,1,1,Male,Urgent,Transferred to facility,Emergency room,Emergency/Trauma,Respiratory,Circulatory,Respiratory,Not measured,Not measured,Up,No,Yes,Yes,0
+85,7,44,0,20,0,0,0,9,0,0,0,Female,Emergency,Transferred to facility,Transfer,Missing,Other,Other,Respiratory,Not measured,Not measured,No,No,No,No,0
+65,6,64,2,31,1,0,0,9,1,1,1,Male,Emergency,Home,Emergency room,Missing,Respiratory,Respiratory,Diabetes,Not measured,Norm,Up,No,Yes,Yes,0
+45,2,2,2,14,0,0,0,4,0,0,1,Male,Elective,Home,Referral,Other,Neoplasms,Circulatory,Diabetes,Not measured,Norm,No,No,No,Yes,0
+95,1,3,0,2,0,0,1,6,1,0,0,Female,Emergency,Home with health service,Emergency room,Missing,Other,Circulatory,Diabetes,Not measured,Not measured,No,No,No,No,0
+45,3,47,0,11,0,0,0,7,0,0,1,Male,Emergency,Other,Emergency room,Missing,Digestive,Other,Digestive,Not measured,Not measured,Steady,No,No,Yes,0
+35,6,52,0,7,0,0,0,5,0,0,0,Female,Emergency,Home,Emergency room,Missing,Digestive,Other,Other,Not measured,Not measured,No,No,No,No,0
+65,3,1,1,13,0,0,0,9,0,1,2,Male,Emergency,Home,Emergency room,Missing,Digestive,Other,Diabetes,Not measured,Not measured,Up,No,Yes,Yes,0
+55,3,15,0,12,0,1,0,9,1,0,1,Female,Elective,Home,Referral,Cardiology,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+55,4,43,2,42,0,0,0,5,0,0,1,Male,Elective,Home with health service,Referral,Missing,Circulatory,Diabetes,Respiratory,Not measured,Not measured,Steady,No,No,Yes,1
+65,1,30,1,9,0,0,0,9,0,0,1,Female,Emergency,Home,Emergency room,Missing,Injury,Other,Circulatory,Not measured,Not measured,Steady,No,No,Yes,0
+65,6,52,0,8,0,0,0,5,0,0,1,Female,Emergency,Home,Transfer,InternalMedicine,Respiratory,Circulatory,Circulatory,Not measured,Norm,Steady,No,No,Yes,0
+55,1,42,0,9,0,0,0,4,0,0,2,Male,Emergency,Home,Transfer,Family/GeneralPractice,Circulatory,Neoplasms,Diabetes,Not measured,Not measured,No,Steady,Yes,Yes,0
+55,6,61,0,13,0,0,0,9,0,0,0,Male,Unknown,Home,Other,Family/GeneralPractice,Circulatory,Diabetes,Circulatory,Not measured,Not measured,No,No,No,No,0
+65,3,16,2,13,0,0,0,9,0,0,0,Male,Urgent,Home,Referral,Missing,Genitourinary,Diabetes,Other,Not measured,Not measured,No,No,No,No,0
+75,2,45,1,18,0,0,0,7,0,1,1,Female,Emergency,Transferred to facility,Emergency room,Family/GeneralPractice,Circulatory,Circulatory,Circulatory,Not measured,Not measured,Down,No,Yes,Yes,0
+85,10,55,1,25,0,0,0,9,0,1,1,Male,Emergency,Transferred to facility,Referral,Missing,Other,Respiratory,Genitourinary,Not measured,Not measured,Up,No,Yes,Yes,0
+95,7,39,1,20,0,0,1,6,1,0,0,Male,Emergency,Home,Emergency room,Nephrology,Respiratory,Genitourinary,Circulatory,Not measured,Not measured,No,No,No,No,0
+55,6,64,0,12,0,0,0,8,0,1,2,Female,Emergency,Home,Emergency room,Emergency/Trauma,Diabetes,Other,Other,Not measured,>8,Up,No,Yes,Yes,0
+45,3,41,1,14,0,0,0,3,0,1,3,Male,Emergency,Home,Emergency room,InternalMedicine,Circulatory,Diabetes,Circulatory,Not measured,Not measured,Steady,Down,Yes,Yes,0
+45,4,47,3,17,0,0,0,7,0,1,1,Female,Emergency,Home,Emergency room,InternalMedicine,Respiratory,Diabetes,Circulatory,Not measured,Not measured,Down,No,Yes,Yes,0
+45,2,54,1,13,0,0,1,8,1,0,1,Male,Elective,Home,Referral,Surgery-General,Injury,Diabetes,Diabetes,Not measured,Not measured,Steady,No,No,Yes,0
+55,2,10,1,8,0,0,0,6,0,0,2,Female,Elective,Home,Referral,Surgery-General,Digestive,Diabetes,Other,Not measured,Not measured,No,Steady,Yes,Yes,0
+85,3,1,0,15,0,0,0,5,0,1,3,Female,Emergency,Home,Emergency room,Missing,Musculoskeletal,Neoplasms,Diabetes,Not measured,Not measured,Up,No,Yes,Yes,0
+85,3,35,0,4,0,0,0,5,0,0,1,Female,Emergency,Home,Emergency room,Missing,Circulatory,Diabetes,Other,Not measured,>7,No,No,No,Yes,0
+75,2,42,1,16,0,0,1,8,1,0,2,Female,Emergency,Home,Emergency room,Family/GeneralPractice,Other,Circulatory,Circulatory,Not measured,Not measured,Steady,Steady,Yes,Yes,0
+75,3,22,1,8,0,0,0,5,0,0,3,Female,Elective,Home,Referral,Orthopedics,Musculoskeletal,Circulatory,Diabetes,Not measured,Not measured,No,Steady,Yes,Yes,0
+85,7,16,4,14,0,0,0,9,0,0,1,Male,Elective,Home,Referral,Cardiology,Circulatory,Circulatory,Other,Not measured,Not measured,No,No,No,Yes,0
+75,5,75,0,8,0,0,0,5,0,0,0,Female,Emergency,Home,Transfer,Other,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,No,0
+75,5,26,1,26,1,0,0,9,1,2,2,Male,Unknown,Transferred to facility,Other,Missing,Circulatory,Circulatory,Respiratory,>200,Not measured,Down,No,Yes,Yes,0
+85,2,1,0,20,1,0,0,5,1,1,1,Male,Urgent,Transferred to facility,Referral,Other,Other,Genitourinary,Circulatory,Not measured,Not measured,Down,No,Yes,Yes,1
+65,5,60,0,22,1,0,0,9,1,1,1,Male,Unknown,Transferred to facility,Referral,Missing,Diabetes,Circulatory,Other,Not measured,>8,Up,No,Yes,Yes,1
+75,1,24,2,6,0,0,0,8,0,0,0,Female,Emergency,Other,Emergency room,Missing,Respiratory,Respiratory,Circulatory,Not measured,Not measured,No,No,No,No,0
+55,6,99,0,19,0,0,0,9,0,1,1,Female,Emergency,Home,Emergency room,InternalMedicine,Respiratory,Diabetes,Other,Not measured,>8,Down,No,Yes,Yes,0
+65,2,27,5,21,0,0,0,9,0,0,1,Female,Emergency,Home,Emergency room,Missing,Circulatory,Circulatory,Diabetes,Not measured,Not measured,Steady,No,No,Yes,0
+65,4,23,0,20,0,1,0,8,1,1,2,Female,Unknown,Home with health service,Other,Missing,Other,Diabetes,Other,>300,Not measured,Down,No,Yes,Yes,0
+75,3,38,0,8,0,0,0,9,0,0,0,Male,Urgent,Home,Transfer,Missing,Circulatory,Genitourinary,Other,Not measured,Norm,No,No,No,No,0
+45,4,53,2,5,0,0,0,3,0,0,0,Female,Emergency,Other,Transfer,Missing,Other,Diabetes,Circulatory,Not measured,Norm,No,No,No,No,1
+85,7,52,0,8,0,0,0,7,0,1,2,Female,Urgent,Transferred to facility,Emergency room,Emergency/Trauma,Other,Other,Other,Not measured,Not measured,Steady,No,Yes,Yes,0
+75,4,53,2,16,0,0,0,9,0,0,2,Male,Unknown,Home,Other,Family/GeneralPractice,Respiratory,Respiratory,Diabetes,Not measured,Not measured,Steady,No,Yes,Yes,0
+75,1,5,6,16,0,0,0,7,0,0,1,Male,Elective,Home,Referral,Cardiology,Circulatory,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+75,3,57,1,16,1,0,1,5,2,0,0,Female,Urgent,Transferred to facility,Referral,Missing,Other,Genitourinary,Circulatory,Not measured,Not measured,No,No,No,No,0
+25,1,43,0,1,0,0,0,4,0,0,0,Female,Emergency,Home,Emergency room,Other,Diabetes,Other,Other,Not measured,Not measured,No,No,No,No,0
+55,8,60,0,33,0,0,0,9,0,0,0,Female,Emergency,Home with health service,Emergency room,Missing,Circulatory,Respiratory,Circulatory,Not measured,Not measured,No,No,No,No,0
+85,3,1,0,5,0,0,0,5,0,0,0,Female,Urgent,Home,Emergency room,Emergency/Trauma,Other,Other,Circulatory,Not measured,Not measured,No,No,No,No,0
+45,7,40,6,57,0,0,0,9,0,1,1,Male,Elective,Home,Transfer,Cardiology,Injury,Circulatory,Circulatory,Not measured,>7,Up,No,Yes,Yes,0
+45,1,38,1,9,0,0,0,6,0,0,1,Male,Emergency,Home,Emergency room,InternalMedicine,Respiratory,Other,Other,Not measured,Not measured,Steady,No,No,Yes,0
+65,3,46,0,19,0,0,1,9,1,0,1,Female,Unknown,Transferred to facility,Referral,Missing,Musculoskeletal,Respiratory,Diabetes,Not measured,Not measured,No,Steady,No,Yes,0
+85,4,53,1,10,3,1,0,5,4,0,0,Female,Elective,Transferred to facility,Referral,Other,Injury,Diabetes,Other,Not measured,Not measured,No,No,No,No,0
+55,2,38,2,17,0,0,0,5,0,0,0,Male,Elective,Home,Referral,Other,Neoplasms,Genitourinary,Diabetes,Not measured,Not measured,No,No,No,No,0
+65,6,37,3,22,0,0,0,5,0,1,3,Female,Urgent,Home,Referral,Other,Circulatory,Other,Other,Not measured,Not measured,Steady,Steady,Yes,Yes,0
+75,3,1,0,12,0,0,0,9,0,1,1,Female,Emergency,Home with health service,Emergency room,Missing,Musculoskeletal,Circulatory,Circulatory,Not measured,Not measured,Down,No,Yes,Yes,0
+75,3,26,0,9,0,0,3,9,3,0,2,Male,Urgent,Home,Referral,Other,Other,Genitourinary,Genitourinary,Not measured,Not measured,Steady,No,Yes,Yes,0
+75,13,80,3,43,0,0,0,6,0,1,1,Female,Emergency,Home with health service,Emergency room,Missing,Digestive,Digestive,Respiratory,Not measured,Not measured,Up,No,Yes,Yes,0
+45,5,44,1,20,0,0,0,4,0,0,2,Male,Emergency,Home,Emergency room,Missing,Diabetes,Other,Other,Not measured,>8,Steady,No,Yes,Yes,0
+65,6,68,2,29,0,0,0,9,0,0,2,Male,Urgent,Home with health service,Emergency room,Missing,Circulatory,Respiratory,Respiratory,Not measured,Not measured,Steady,No,Yes,Yes,0
+55,5,26,2,20,0,0,0,7,0,1,2,Female,Unknown,Home,Referral,Missing,Digestive,Digestive,Diabetes,Not measured,Not measured,Down,Steady,Yes,Yes,0
+75,6,46,1,14,2,0,1,7,3,0,1,Male,Elective,Home,Emergency room,Emergency/Trauma,Other,Other,Musculoskeletal,Not measured,Not measured,Steady,No,No,Yes,0
+75,1,40,0,4,1,0,0,9,1,0,1,Female,Emergency,Home,Emergency room,InternalMedicine,Other,Other,Other,Not measured,Not measured,No,No,No,Yes,0
+75,1,38,0,5,0,0,0,6,0,0,1,Male,Emergency,Home,Emergency room,Pulmonology,Other,Other,Diabetes,Not measured,Not measured,Steady,No,No,Yes,0
+85,3,38,1,16,0,0,0,8,0,1,1,Male,Elective,Transferred to facility,Referral,Orthopedics,Musculoskeletal,Musculoskeletal,Diabetes,Not measured,Not measured,Down,No,Yes,Yes,0
+65,9,43,4,20,0,0,0,9,0,0,2,Female,Emergency,Home,Emergency room,Family/GeneralPractice,Circulatory,Circulatory,Respiratory,Not measured,Not measured,Steady,No,Yes,Yes,0
+75,3,3,1,14,0,0,0,6,0,0,1,Male,Elective,Transferred to facility,Referral,Orthopedics,Musculoskeletal,Circulatory,Circulatory,Not measured,Not measured,No,No,No,Yes,0
+85,4,26,5,19,5,0,0,9,5,0,2,Male,Urgent,Transferred to facility,Referral,Missing,Musculoskeletal,Respiratory,Other,Not measured,Not measured,Steady,No,Yes,Yes,0
+65,2,49,0,20,3,0,0,9,3,0,1,Female,Emergency,Home,Emergency room,Emergency/Trauma,Circulatory,Circulatory,Other,Not measured,Not measured,No,Steady,No,Yes,0

@@ -1,0 +1,17 @@
+medical_specialty,encounters,readmit_30d_rate_pct
+Nephrology,1613,15.38
+Surgery-Vascular,533,13.88
+Psychiatry,854,12.18
+Family/GeneralPractice,7440,11.87
+InternalMedicine,14635,11.25
+Emergency/Trauma,7565,11.18
+Surgery-General,3099,11.04
+Pulmonology,871,11.02
+Gastroenterology,564,10.99
+Orthopedics,1400,10.79
+Urology,685,9.93
+Radiologist,1140,9.04
+Cardiology,5352,7.94
+Orthopedics-Reconstructive,1233,7.46
+Surgery-Cardiovascular/Thoracic,652,6.6
+ObstetricsandGynecology,671,4.77

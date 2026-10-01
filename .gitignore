@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data (re-created by `python main.py`)
+data/raw/*
+data/processed/*
+data/*.db
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Experiment tracking
+mlruns/
+mlflow.db
+mlartifacts/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
