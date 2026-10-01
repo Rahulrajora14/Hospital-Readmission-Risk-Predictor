@@ -402,7 +402,7 @@ pytest -v
 
 ## 👤 Author
 
-**Arun Yadav**
+**Rahul Rajora**
 🎓 B.Tech Computer Science & Engineering, Delhi Technological University (2023–2027)
 
 [![GitHub](https://img.shields.io/badge/GitHub-<your--username>-181717?logo=github)](https://github.com/<your-username>)
